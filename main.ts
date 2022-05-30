@@ -88,6 +88,7 @@ input.onButtonPressed(Button.B, function () {
         }
     }
 })
+// Se debe presionar el botón A para escoger el numero 1. Luego presionar A+B para el operador, luego B y pasar a presionar el botón A (escoger el numero 2) y finalmente el botón B
 let cambio = 0
 let numero2 = 0
 let numero1 = 0
